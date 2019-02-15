@@ -14,6 +14,9 @@ I found the following links to be quite helpful while developing the parser:
 - http://search.cpan.org/~wiml/Mac-Finder-DSStore/DSStoreFormat.pod
 - https://digi.ninja/projects/fdb.php
 
+# Credit to
+gehaxelt
+
 # License
 
 MIT - See License.md
